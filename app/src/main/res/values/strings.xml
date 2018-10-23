@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Адресная Книга</string>
+    <string name="retry">Retry</string>
+    <string name="exit_toast">Нажмите снова для выхода</string>
+    <string name="logout_message">Вы уверены, что хотите покинуть профиль?</string>
+    <string name="logout">logout</string>
+</resources>
